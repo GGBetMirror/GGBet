@@ -4,7 +4,7 @@
 
 <p>Заходить на официальный сайт БК можно с смартфона, планшета, компьютера. Для портативных устройств была создана мобильная версия веб-страницы, открывающаяся во всех браузерах. </p>
 
-<img src="https://github.com/GGBetMirror/GGBet/blob/dec2dcde730ac4f76c9d555b9eb324938c26b75a/ggbet_gaming.jpg" alt="GGBet Gaming">
+<img src="ggbet_gaming.jpg" alt="GGBet Gaming">
 
 <h2>Преимущества GGBet</h2>
 
